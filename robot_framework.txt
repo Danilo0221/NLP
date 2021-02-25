@@ -1,0 +1,137 @@
+sh-4.2$ ls
+anaconda3  LICENSE                README     sample-notebooks             src    tutorials
+examples   Nvidia_Cloud_EULA.pdf  SageMaker  sample-notebooks-1610629517  tools
+sh-4.2$ cd rc
+sh: cd: rc: No such file or directory
+sh-4.2$ cd src
+sh-4.2$ ls
+bin  logs
+sh-4.2$ pwd
+/home/ec2-user/src
+sh-4.2$ ls
+bin  logs
+sh-4.2$ cd .
+sh-4.2$ cd ..
+sh-4.2$
+sh-4.2$ ls
+anaconda3  LICENSE                README     sample-notebooks             src    tutorials
+examples   Nvidia_Cloud_EULA.pdf  SageMaker  sample-notebooks-1610629517  tools
+sh-4.2$ cd SageMaker/
+sh-4.2$ ls
+ASIGNACION_DMCE  Informe_Jose_Luis_NumeroCuadriculas200x200  Optimizacion  prediccionv3.zip    ResultsXCrime
+Dan              lost+found                                  Prediccion    PredV3
+DownloadJsons    nv                                          Predicciones  ResultsStatModelos
+sh-4.2$ cd D
+sh: cd: D: No such file or directory
+sh-4.2$ cd Dan
+sh-4.2$ ls
+Pred.robot  Untitled.ipynb
+sh-4.2$ robot Pred.robot
+sh: robot: command not found
+sh-4.2$ pip
+
+Usage:
+  pip <command> [options]
+
+Commands:
+  install                     Install packages.
+  download                    Download packages.
+  uninstall                   Uninstall packages.
+  freeze                      Output installed packages in requirements format.
+  list                        List installed packages.
+  show                        Show information about installed packages.
+  check                       Verify installed packages have compatible dependencies.
+  config                      Manage local and global configuration.
+  search                      Search PyPI for packages.
+  cache                       Inspect and manage pip's wheel cache.
+  wheel                       Build wheels from your requirements.
+  hash                        Compute hashes of package archives.
+  completion                  A helper command used for command completion.
+  debug                       Show information useful for debugging.
+  help                        Show help for commands.
+
+General Options:
+  -h, --help                  Show help.
+  --isolated                  Run pip in an isolated mode, ignoring environment variables and user configuration.
+  -v, --verbose               Give more output. Option is additive, and can be used up to 3 times.
+  -V, --version               Show version and exit.
+  -q, --quiet                 Give less output. Option is additive, and can be used up to 3 times (corresponding to
+                              WARNING, ERROR, and CRITICAL logging levels).
+  --log <path>                Path to a verbose appending log.
+  --no-input                  Disable prompting for input.
+  --proxy <proxy>             Specify a proxy in the form [user:passwd@]proxy.server:port.
+  --retries <retries>         Maximum number of retries each connection should attempt (default 5 times).
+  --timeout <sec>             Set the socket timeout (default 15 seconds).
+  --exists-action <action>    Default action when a path already exists: (s)witch, (i)gnore, (w)ipe, (b)ackup, (a)bort.
+  --trusted-host <hostname>   Mark this host or host:port pair as trusted, even though it does not have valid or any
+                              HTTPS.
+  --cert <path>               Path to alternate CA bundle.
+  --client-cert <path>        Path to SSL client certificate, a single file containing the private key and the
+                              certificate in PEM format.
+  --cache-dir <dir>           Store the cache data in <dir>.
+  --no-cache-dir              Disable the cache.
+  --disable-pip-version-check
+                              Don't periodically check PyPI to determine whether a new version of pip is available for
+                              download. Implied with --no-index.
+  --no-color                  Suppress colored output.
+  --no-python-version-warning
+                              Silence deprecation warnings for upcoming unsupported Pythons.
+  --use-feature <feature>     Enable new functionality, that may be backward incompatible.
+  --use-deprecated <feature>  Enable deprecated functionality, that will be removed in the future.
+sh-4.2$ ls
+Pred.robot  Untitled.ipynb
+sh-4.2$ pip install robotframework
+Collecting robotframework
+  Using cached robotframework-3.2.2-py2.py3-none-any.whl (623 kB)
+Installing collected packages: robotframework
+Successfully installed robotframework-3.2.2
+sh-4.2$ pip install robotframework-aws
+Collecting robotframework-aws
+  Using cached robotframework_aws-0.0.4-py3-none-any.whl (22 kB)
+Requirement already satisfied: robotframework>=3.1.2 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from robotframework-aws) (3.2.2)
+Requirement already satisfied: boto3>=1.9.2 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from robotframework-aws) (1.16.37)
+Requirement already satisfied: jmespath<1.0.0,>=0.7.1 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from boto3>=1.9.2->robotframework-aws) (0.10.0)
+Requirement already satisfied: botocore<1.20.0,>=1.19.37 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from boto3>=1.9.2->robotframework-aws) (1.19.37)
+Requirement already satisfied: s3transfer<0.4.0,>=0.3.0 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from boto3>=1.9.2->robotframework-aws) (0.3.3)
+Requirement already satisfied: python-dateutil<3.0.0,>=2.1 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from botocore<1.20.0,>=1.19.37->boto3>=1.9.2->robotframework-aws) (2.8.1)
+Requirement already satisfied: urllib3<1.27,>=1.25.4 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from botocore<1.20.0,>=1.19.37->boto3>=1.9.2->robotframework-aws) (1.26.2)
+Requirement already satisfied: six>=1.5 in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (from python-dateutil<3.0.0,>=2.1->botocore<1.20.0,>=1.19.37->boto3>=1.9.2->robotframework-aws) (1.15.0)
+Installing collected packages: robotframework-aws
+Successfully installed robotframework-aws-0.0.4
+sh-4.2$ python -version
+Unknown option: -e
+usage: python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+sh-4.2$ pip install robotframework
+
+
+Requirement already satisfied: robotframework in /home/ec2-user/anaconda3/envs/JupyterSystemEnv/lib/python3.6/site-packages (3.2.2)
+sh-4.2$
+sh-4.2$
+sh-4.2$ python --version
+Python 3.6.11
+sh-4.2$ robot Pred.robot
+[ ERROR ] Suite 'Pred' contains no tests or tasks.
+
+Try --help for usage information.
+sh-4.2$ more Pred.robot
+sh-4.2$ robot Pred.robot
+==============================================================================
+Pred
+==============================================================================
+Checking PredictionMEVIL46142                                         | FAIL |
+ClientError: An error occurred (404) when calling the HeadObject operation: Not Found
+------------------------------------------------------------------------------
+[ WARN ] Multiple test cases with name 'Checking PredictionMEVIL46142' executed in test suite 'Pred'.
+Checking PredictionMEVIL46142                                         | PASS |
+------------------------------------------------------------------------------
+Pred                                                                  | FAIL |
+2 critical tasks, 1 passed, 1 failed
+2 tasks total, 1 passed, 1 failed
+==============================================================================
+Output:  /home/ec2-user/SageMaker/Dan/output.xml
+Log:     /home/ec2-user/SageMaker/Dan/log.html
+Report:  /home/ec2-user/SageMaker/Dan/report.html
+sh-4.2$ ^C
+sh-4.2$ ^C
+sh-4.2$
