@@ -21,6 +21,13 @@
         - Stemming
         - Lematización
         - Etiquetado gramatical
+    - Repaso de Feature Engineering en Machine Learning
+    - Representación de datos en forma numérica
+    - Espacio semántico vectorial
+    - Métodos de vectorización
+         - One-Hot Encoding
+         - Bag of Words
+         - Bag of N-Grams
 
 
 
