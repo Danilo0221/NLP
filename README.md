@@ -2,7 +2,7 @@
 
 ![DataEng](https://www.smartilabworks.com/wp-content/uploads/2020/11/original_1721467741.jpg)
 
-Mi nombre es Danilo Plazas, soy ingeniero electrónico egresado de la Universidad Distrital Francisco José de Caldas, me apasionan los datos y aprender cada vez más sobre este tema, actualmente soy ingeniero de Datos para el Laboratorio Digital del grupo Aval.
+Mi nombre es Danilo Plazas, soy ingeniero electrónico egresado de la Universidad Distrital Francisco José de Caldas, me apasionan los datos y aprender cada vez más sobre este tema, actualmente soy ingeniero de Datos para el Laboratorio Digital del grupo Aval (ADL).
 
 En este portafolio encontrarás los trabajos de procesamiento de lenguaje natural (NLP), realizados durante mi especialización en Analítica estratégica de datos, entra a cada uno de los links, estaré agradecido con recomendaciones y consejos que me puedan ayudar a aprender y fortalecer mi perfil profesional.
 
