@@ -13,7 +13,7 @@
     - Imágenes
     - Aumentación de datos 
     
-* **Taller 3: [Extracción, pre-procesamiento y normalización de textos] (https://github.com/Danilo0221/NLP/blob/main/Taller3_WebScraping.ipynb)** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
+* **Taller 3: [Extracción, pre-procesamiento y normalización de textos](https://github.com/Danilo0221/NLP/blob/main/Taller3_WebScraping.ipynb)** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
 
 * **Taller 4: [Representación vectorial de textos Parte 1](https://github.com/Danilo0221/NLP/blob/main/Taller4_Solucion.ipynb)**
 
