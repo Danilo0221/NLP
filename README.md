@@ -4,7 +4,7 @@
 
 ### Proyectos
 
-* **Taller 2: Adquisición de Textos** Métodos de adquisición de texto más comunes:
+* **Taller 2: [Adquisición de Textos](https://github.com/Danilo0221/NLP/blob/main/Taller2.ipynb)** Métodos de adquisición de texto más comunes:
 
     - Datos abiertos
     - Archivos más comunes: .csv, .txt, .json, .zip
