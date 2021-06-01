@@ -6,8 +6,6 @@ Mi Nombre es Danilo Plazas, soy ingeniero electrónico egresado de la Universida
 
 En este portafolio encontrarás los trabajos de procesamiento de lenguaje natural (NLP), realizados durante mi especialización en Analítica estratégica de datos, entra a cada uno de los links, estaré agradecido con recomendaciones y consejos que me puedan ayudar a aprender y fortalecer mi perfil profesional.
 
-![Image](https://www.memesmonkey.com/images/memesmonkey/50/5024f16be041ff0cbea269f321b7fb0d.jpeg)
-
 ### Proyectos NLP 2021
 
 * **Taller 2: [Adquisición de Textos](https://github.com/Danilo0221/NLP/blob/main/Taller2.ipynb)** Métodos de adquisición de texto más comunes:
@@ -97,24 +95,6 @@ En este portafolio encontrarás los trabajos de procesamiento de lenguaje natura
        - VADER
        - TextBlob
        - Flair
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and
-```
 
 ### ¿Quieres conocer más o ayudarme a ampliar mi conocimiento?
 
