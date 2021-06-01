@@ -35,10 +35,10 @@
 
 * **Taller 5: [Representación vectorial de textos Parte 2](https://github.com/Danilo0221/NLP/blob/main/Taller5_Solucion.ipynb)**
 
-    1. Métodos de vectorización
+    - Métodos de vectorización
     
         - TF-IDF
-    2. Medidas de similitud
+    - Medidas de similitud
     
         - Distancia Euclidiana
         - Distancia del coseno
@@ -47,12 +47,50 @@
 
 * **Taller 7: [Clasificación de Textos](https://github.com/Danilo0221/NLP/blob/main/taller7_Danilo.ipynb)**
 
-    1. Modelos de clasificación para NLP
+    - Modelos de clasificación para NLP
+    
         - Regresión logística
         - Bayesiano ingenuo (Naive Bayes)
         - Máquinas de vectores de soporte (SVM)
         - Árboles de decisión
-        
+
+* **Taller 8: [Agrupación de Textos con K-Means](https://github.com/Danilo0221/NLP/blob/main/taller8_Danilo.ipynb)**
+
+    - Repaso de clasificación de textos
+    - Agrupación de textos con K-Means
+
+* **Taller 9: [Modelado de Temas](https://github.com/Danilo0221/NLP/blob/main/taller9_Danilo.ipynb)**
+
+    - Panorama del Modelado de Temas
+    - LDA: Latent Dirichlet Allocation
+
+* **Taller 10: [Visualizaciones para NLP](https://github.com/Danilo0221/NLP/blob/main/Taller10_Danilo.ipynb)**
+
+    - Importancia de hacer visualizaciones
+    - Herramientas disponibles para hacer visualizaciones
+    - Mejores prácticas
+    - Presentaciones en Jupyter Notebook
+    - Nube de palabras en Python
+    - Tableau: Nube de palabras, mapa de árbol, mapa y Tableau Public
+
+* **Taller 11: [Redes Sociales y NLP](https://github.com/Danilo0221/NLP/blob/main/taller11.ipynb)**
+
+    - NLP y Redes Sociales
+    - La API de Twitter
+    - Scraping Twitter
+    - Pre-procesamiento para Twitter
+    - Visualizaciones usando Plotly
+
+* **Taller 12: [Análisis de Sentimiento](https://github.com/Danilo0221/NLP/blob/main/taller12.ipynb)**
+
+    - Análisis de Sentimiento
+    - Etiquetados vs No etiquetados
+    - Limitaciones
+    - Librerias de Python:
+        - VADER
+        - TextBlob
+        - Flair
+
 ```markdown
 Syntax highlighted code block
 
