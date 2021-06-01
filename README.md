@@ -1,6 +1,6 @@
 ## Portafolio NLP
 
-![DataEng](https://www.smartilabworks.com/wp-content/uploads/2020/11/original_1721467741.jpg)
+![DataEng](https://github.com/Danilo0221/NLP/blob/main/dataenginner.jpg)
 
 Mi nombre es Danilo Plazas, soy ingeniero electrónico egresado de la Universidad Distrital Francisco José de Caldas, me apasionan los datos y aprender cada vez más sobre este tema, actualmente soy ingeniero de Datos para el Laboratorio Digital del grupo Aval (ADL).
 
