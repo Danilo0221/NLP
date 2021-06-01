@@ -49,7 +49,7 @@
 
     - Modelos de clasificación para NLP
     
-      - Regresión logística
+      - Regresión logísticaT
       - Bayesiano ingenuo (Naive Bayes)
       - Máquinas de vectores de soporte (SVM)
       - Árboles de decisión
@@ -87,7 +87,7 @@
     * Etiquetados vs No etiquetados
     * Limitaciones
     * Librerias de Python:
-      - VADER
+      - VADERPrue
       - TextBlob
       - Flair
 
