@@ -5,6 +5,7 @@
 ### Proyectos
 
 * **Taller 2: Adquisición de Textos** Métodos de adquisición de texto más comunes:
+* 
     - Datos abiertos
     - Archivos más comunes: .csv, .txt, .json, .zip
     - Archivos Office: Word, Excel, Google Sheets
@@ -15,6 +16,7 @@
 * **Taller 3: Extracción, pre-procesamiento y normalización de textos** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
 
 * **Taller 4: Representación vectorial de textos**
+
     1. Herramientas específicas de pre-procesamiento de texto en NLP      :
         - Palabras vacías
         - Tokenización
