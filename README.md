@@ -114,6 +114,5 @@ Syntax highlighted code block
 
 * [LinkedIn](www.linkedin.com/in/danilo-plazas-irreño-295115127)
 * [GitHub](https://github.com/Danilo0221)
-* 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
