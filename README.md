@@ -15,16 +15,16 @@
 * **Taller 3: Extracción, pre-procesamiento y normalización de textos** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
 
 * **Taller 4: Representación vectorial de textos**
-    * Herramientas específicas de pre-procesamiento de texto en NLP      :
+    1. Herramientas específicas de pre-procesamiento de texto en NLP      :
         - Palabras vacías
         - Tokenización
         - Stemming
         - Lematización
         - Etiquetado gramatical
-    * Repaso de Feature Engineering en Machine Learning
-    * Representación de datos en forma numérica
-    * Espacio semántico vectorial
-    * Métodos de vectorización
+    2. Repaso de Feature Engineering en Machine Learning
+    3. Representación de datos en forma numérica
+    4. Espacio semántico vectorial
+    5. Métodos de vectorización
          - One-Hot Encoding
          - Bag of Words
          - Bag of N-Grams
