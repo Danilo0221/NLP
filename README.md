@@ -21,7 +21,7 @@ En este portafolio encontrarás los trabajos de procesamiento de lenguaje natura
 
 * **Taller 4: [Representación vectorial de textos Parte 1](https://github.com/Danilo0221/NLP/blob/main/Taller4_Solucion.ipynb)**
 
-    1. Herramientas específicas de pre-procesamiento de texto en NLP:
+     - Herramientas específicas de pre-procesamiento de texto en NLP:
    
        - Palabras vacías
        - Tokenización
