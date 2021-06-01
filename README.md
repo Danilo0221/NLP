@@ -3,10 +3,11 @@
 You can use the [editor on GitHub](https://github.com/Danilo0221/NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memesmonkey.com%2Ftopic%2Fdata%2Bscience&psig=AOvVaw2pwCqxnxZxW4xTpIE47qMo&ust=1622595671929000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiQjrGe9fACFQAAAAAdAAAAABAE)
 
-### Markdown
+### Proyectos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
