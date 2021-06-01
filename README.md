@@ -49,15 +49,15 @@
 
     - Modelos de clasificación para NLP
     
-        - Regresión logística
-        - Bayesiano ingenuo (Naive Bayes)
-        - Máquinas de vectores de soporte (SVM)
-        - Árboles de decisión
+      - Regresión logística
+      - Bayesiano ingenuo (Naive Bayes)
+      - Máquinas de vectores de soporte (SVM)
+      - Árboles de decisión
 
 * **Taller 8: [Agrupación de Textos con K-Means](https://github.com/Danilo0221/NLP/blob/main/taller8_Danilo.ipynb)**
 
-    * Repaso de clasificación de textos
-    * Agrupación de textos con K-Means
+    - Repaso de clasificación de textos
+    - Agrupación de textos con K-Means
 
 * **Taller 9: [Modelado de Temas](https://github.com/Danilo0221/NLP/blob/main/taller9_Danilo.ipynb)**
 
@@ -87,9 +87,9 @@
     * Etiquetados vs No etiquetados
     * Limitaciones
     * Librerias de Python:
-        - VADER
-        - TextBlob
-        - Flair
+      - VADER
+      - TextBlob
+      - Flair
 
 ```markdown
 Syntax highlighted code block
