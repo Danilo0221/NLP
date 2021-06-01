@@ -19,40 +19,40 @@
 
     1. Herramientas específicas de pre-procesamiento de texto en NLP:
    
-        - Palabras vacías
-        - Tokenización
-        - Stemming
-        - Lematización
-        - Etiquetado gramatical
+       - Palabras vacías
+       - Tokenización
+       - Stemming
+       - Lematización
+       - Etiquetado gramatical
     2. Repaso de Feature Engineering en Machine Learning
     3. Representación de datos en forma numérica
     4. Espacio semántico vectorial
     5. Métodos de vectorización:
     
-         - One-Hot Encoding
-         - Bag of Words
-         - Bag of N-Grams
+       - One-Hot Encoding
+       - Bag of Words
+       - Bag of N-Grams
 
 * **Taller 5: [Representación vectorial de textos Parte 2](https://github.com/Danilo0221/NLP/blob/main/Taller5_Solucion.ipynb)**
 
-    - Métodos de vectorización
+    1. Métodos de vectorización
     
-        - TF-IDF
-    - Medidas de similitud
+       - TF-IDF
+    2. Medidas de similitud
     
-        - Distancia Euclidiana
-        - Distancia del coseno
-        - Distancia de Jaccard
-        - Distancia de Levenshtein
+       - Distancia Euclidiana
+       - Distancia del coseno
+       - Distancia de Jaccard
+       - Distancia de Levenshtein
 
 * **Taller 7: [Clasificación de Textos](https://github.com/Danilo0221/NLP/blob/main/taller7_Danilo.ipynb)**
 
-    - Modelos de clasificación para NLP
+    1. Modelos de clasificación para NLP
     
-      - Regresión logísticaT
-      - Bayesiano ingenuo (Naive Bayes)
-      - Máquinas de vectores de soporte (SVM)
-      - Árboles de decisión
+       - Regresión logística
+       - Bayesiano ingenuo (Naive Bayes)
+       - Máquinas de vectores de soporte (SVM)
+       - Árboles de decisión
 
 * **Taller 8: [Agrupación de Textos con K-Means](https://github.com/Danilo0221/NLP/blob/main/taller8_Danilo.ipynb)**
 
@@ -83,13 +83,14 @@
 
 * **Taller 12: [Análisis de Sentimiento](https://github.com/Danilo0221/NLP/blob/main/taller12.ipynb)**
 
-    * Análisis de Sentimiento
-    * Etiquetados vs No etiquetados
-    * Limitaciones
-    * Librerias de Python:
-      - VADERPrue
-      - TextBlob
-      - Flair
+    1. Análisis de Sentimiento
+    2. Etiquetados vs No etiquetados
+    3. Limitaciones
+    4. Librerias de Python:
+   
+       - VADER
+       - TextBlob
+       - Flair
 
 ```markdown
 Syntax highlighted code block
@@ -109,9 +110,10 @@ Syntax highlighted code block
 [Link](url) and
 ```
 
+### ¿Quieres conocer más o ayudarme a ampliar mi conocimiento?
+
+* [LinkedIn](www.linkedin.com/in/danilo-plazas-irreño-295115127)
+* [GitHub](https://github.com/Danilo0221)
+* 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Danilo0221/NLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
