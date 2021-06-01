@@ -17,7 +17,8 @@
 
 * **Taller 4: Representación vectorial de textos**
 
-    1. Herramientas específicas de pre-procesamiento de texto en NLP      :
+    1. Herramientas específicas de pre-procesamiento de texto en NLP:
+   
         - Palabras vacías
         - Tokenización
         - Stemming
@@ -26,7 +27,8 @@
     2. Repaso de Feature Engineering en Machine Learning
     3. Representación de datos en forma numérica
     4. Espacio semántico vectorial
-    5. Métodos de vectorización
+    5. Métodos de vectorización:
+    
          - One-Hot Encoding
          - Bag of Words
          - Bag of N-Grams
