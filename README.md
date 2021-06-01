@@ -4,7 +4,13 @@
 
 ### Proyectos
 
-* 
+* **Taller 2: Adquisición de Textos** Métodos de adquisición de texto más comunes:
+    >>Datos abiertos
+    >>Archivos más comunes: .csv, .txt, .json, .zip
+    >>Archivos Office: Word, Excel, Google Sheets
+    >>PDFs
+    >>Imágenes
+    >>Aumentación de datos 
 
 ```markdown
 Syntax highlighted code block
