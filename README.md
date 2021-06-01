@@ -13,9 +13,9 @@
     - Imágenes
     - Aumentación de datos 
     
-* **Taller 3: Extracción, pre-procesamiento y normalización de textos** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
+* **Taller 3: [Extracción, pre-procesamiento y normalización de textos] (https://github.com/Danilo0221/NLP/blob/main/Taller3_WebScraping.ipynb)** Web Scraping y Herramientas generales de limpieza de texto (ASCII, Unicode, RegEx, Otros métodos útiles en Python, Traducción)
 
-* **Taller 4: Representación vectorial de textos**
+* **Taller 4: [Representación vectorial de textos Parte 1](https://github.com/Danilo0221/NLP/blob/main/Taller4_Solucion.ipynb)**
 
     1. Herramientas específicas de pre-procesamiento de texto en NLP:
    
@@ -33,8 +33,26 @@
          - Bag of Words
          - Bag of N-Grams
 
+* **Taller 5: [Representación vectorial de textos Parte 2](https://github.com/Danilo0221/NLP/blob/main/Taller5_Solucion.ipynb)**
 
+    1. Métodos de vectorización
+    
+        - TF-IDF
+    2. Medidas de similitud
+    
+        - Distancia Euclidiana
+        - Distancia del coseno
+        - Distancia de Jaccard
+        - Distancia de Levenshtein
 
+* **Taller 7: [Clasificación de Textos](https://github.com/Danilo0221/NLP/blob/main/taller7_Danilo.ipynb)**
+
+    1. Modelos de clasificación para NLP
+        - Regresión logística
+        - Bayesiano ingenuo (Naive Bayes)
+        - Máquinas de vectores de soporte (SVM)
+        - Árboles de decisión
+        
 ```markdown
 Syntax highlighted code block
 
