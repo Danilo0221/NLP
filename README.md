@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/Danilo0221/NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.memesmonkey.com%2Ftopic%2Fdata%2Bscience&psig=AOvVaw2pwCqxnxZxW4xTpIE47qMo&ust=1622595671929000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiQjrGe9fACFQAAAAAdAAAAABAE)
+![Image](https://www.memesmonkey.com/images/memesmonkey/50/5024f16be041ff0cbea269f321b7fb0d.jpeg)
 
 ### Proyectos
 
