@@ -56,8 +56,8 @@
 
 * **Taller 8: [Agrupación de Textos con K-Means](https://github.com/Danilo0221/NLP/blob/main/taller8_Danilo.ipynb)**
 
-    - Repaso de clasificación de textos
-    - Agrupación de textos con K-Means
+    * Repaso de clasificación de textos
+    * Agrupación de textos con K-Means
 
 * **Taller 9: [Modelado de Temas](https://github.com/Danilo0221/NLP/blob/main/taller9_Danilo.ipynb)**
 
@@ -83,10 +83,10 @@
 
 * **Taller 12: [Análisis de Sentimiento](https://github.com/Danilo0221/NLP/blob/main/taller12.ipynb)**
 
-    - Análisis de Sentimiento
-    - Etiquetados vs No etiquetados
-    - Limitaciones
-    - Librerias de Python:
+    * Análisis de Sentimiento
+    * Etiquetados vs No etiquetados
+    * Limitaciones
+    * Librerias de Python:
         - VADER
         - TextBlob
         - Flair
