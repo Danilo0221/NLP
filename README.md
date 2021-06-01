@@ -112,7 +112,7 @@ Syntax highlighted code block
 
 ### ¿Quieres conocer más o ayudarme a ampliar mi conocimiento?
 
-* [LinkedIn](www.linkedin.com/in/danilo-plazas-irreño-295115127)
+* [LinkedIn](https://www.linkedin.com/in/danilo-plazas-irreño-295115127/)
 * [GitHub](https://github.com/Danilo0221)
 
 
